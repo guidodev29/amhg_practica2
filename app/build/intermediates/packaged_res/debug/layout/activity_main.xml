@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="409dp"
+        android:layout_height="0dp"
+        android:background="#DfF4F0"
+        android:orientation="vertical"
+        tools:ignore="MissingConstraints">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="157dp"
+            android:id="@+id/logoufg"
+            app:srcCompat="@drawable/ufglogocorporativvohorizontal"/>
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="104dp"
+                android:layout_height="101dp"
+                android:id="@+id/fotoanthonyhernandez"
+                app:srcCompat="@drawable/fotoanthonyguido"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/bioname"
+                android:layout_marginLeft="110dp"
+                android:layout_marginTop="0dp"
+                android:text="Anthony Miguel Hernandez Guido"
+                android:textColor="@android:color/black"
+                android:textSize="19sp"
+                android:textStyle="bold"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/biotext"
+                android:layout_marginLeft="110dp"
+                android:layout_marginTop="30dp"
+                android:gravity="start|top"
+                android:inputType="text|textMultiLine"
+                android:maxEms="15"
+                android:maxLines="15"
+                android:text="Estudiante de 4° año en la carrera de Ingeniería de Software en la Universidad Francisco Gavidia, Desarrollador FrontEnd." />
+        </RelativeLayout>
+        <ImageView
+            android:layout_width="239dp"
+            android:layout_height="516dp"
+            android:id="@+id/androidicon"
+            android:layout_gravity="center_horizontal"
+            app:srcCompat="@drawable/androidbrazocruzado"/>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

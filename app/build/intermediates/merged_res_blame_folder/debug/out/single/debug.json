@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-merged_res-28:/xml_data_extraction_rules.xml.flat",
+        "source": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-main-30:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-merged_res-28:/drawable_androidbrazocruzado.png.flat",
+        "source": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-main-30:/drawable/androidbrazocruzado.png"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-merged_res-28:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-main-30:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-merged_res-28:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-main-30:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-merged_res-28:/xml_backup_rules.xml.flat",
+        "source": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-main-30:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-merged_res-28:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-main-30:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-main-30:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-merged_res-28:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-main-30:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-merged_res-28:/drawable_ufglogocorporativvohorizontal.png.flat",
+        "source": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-main-30:/drawable/ufglogocorporativvohorizontal.png"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-merged_res-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-merged_res-28:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-main-30:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-merged_res-28:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-main-30:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-merged_res-28:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-main-30:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-merged_res-28:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-main-30:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-merged_res-28:/drawable_fotoanthonyhernandez.jpg.flat",
+        "source": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-main-30:/drawable/fotoanthonyhernandez.jpg"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-merged_res-28:/drawable_fotoanthonyguido.jpg.flat",
+        "source": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-main-30:/drawable/fotoanthonyguido.jpg"
+    },
+    {
+        "merged": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "sv.edu.ufg.fis.amb.hernandezguido_060224.app-main-30:/mipmap-xxhdpi/ic_launcher_round.webp"
+    }
+]
